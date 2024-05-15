@@ -1,2 +1,1 @@
-# Practice
-This a Practice Exercise Day 2
+Hello, this is Gio's repository!
